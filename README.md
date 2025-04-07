@@ -25,7 +25,8 @@ While my focus is on **Java**, I'm also exploring other exciting technologies an
 - **Other Skills:** Basic knowledge of Git, Agile methodologies, and software design patterns.
 
 ## 🌐 Connect with Me
-*Temporarily disabled*
+[📬](mailto:micorreo@example.com)
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petronyte&show_icons=true&theme=tokyonight)
