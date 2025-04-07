@@ -24,7 +24,7 @@ While my focus is on **Java**, I'm also exploring other exciting technologies an
 - **Web Tools:** HTML, CSS, phpMyAdmin
 - **Other Skills:** Basic knowledge of Git, Agile methodologies, and software design patterns.
 
-## 🌐 Connect with Me
+## 🌐 Contact Me
 [📬 valdo.duran.p@gmail.com](mailto:valdo.duran.p@gmail.com)
 
 
