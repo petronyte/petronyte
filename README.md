@@ -25,7 +25,7 @@ While my focus is on **Java**, I'm also exploring other exciting technologies an
 - **Other Skills:** Basic knowledge of Git, Agile methodologies, and software design patterns.
 
 ## 🌐 Connect with Me
-[📬](mailto:micorreo@example.com)
+[📬 valdo.duran.p@gmail.com](mailto:valdo.duran.p@gmail.com)
 
 
 ## 📊 GitHub Stats
