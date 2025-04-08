@@ -40,7 +40,7 @@ class AboutMe {
 `MySQL` · `MongoDB`
 
 **Tools & Platforms**  
-`Git` · `GitHub` · `IntelliJ IDEA` · `VS Code` · `Udemy` · `Firebase`
+`Git` · `GitHub` · `IntelliJ IDEA` · `VS Code` · `Udemy`
 
 **Other**  
 `REST APIs` · `Responsive Design` · `MVC` · `Agile basics` · `Clean Code`
