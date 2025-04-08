@@ -1,32 +1,80 @@
-# ¡Hola! | Hi there! | Hallo! 👋 I'm Valdo
 
-I'm a second-year student of DAM (Multiplatform Application Development) based in Spain, passionate about programming and constantly improving my skills.
-While my focus is on **Java**, I'm also exploring other exciting technologies and tools to expand my expertise.
+# ¡Hola! | Hi there! | Hallo! 👋  
+I'm **Valdo**, a 20-year-old Fullstack Developer in training based in Spain 🇪🇸  
+Currently finishing my last year of **Multiplatform Application Development (DAM)** while working on real projects and constantly expanding my skills.
 
-## 👾🎧 About Me 👀
-- 💻 Proficient in **Java**, with experience in:
-  - **Kotlin** (for Android development)
-  - **MySQL**, **Oracle** and **phpMyAdmin** (database management)
-  - **HTML & CSS** (web development basics)
-- 🌍 Native Spanish speaker, fluent in English (B2), and currently learning German.
-- 🛠️ My favorite IDE is **IntelliJ IDEA**, which I use extensively. I've also worked with **Eclipse**.
-- 🌱 New to GitHub, currently uploading my projects gradually.
-- 🌟 Always eager to learn and dive into new technologies.
+---
 
-## 📚 What I'm Learning
-- Advanced **Java** development practices.
-- Expanding my knowledge of **Kotlin** for Android apps.
-- Exploring web technologies and backend development tools.
+```diff
+class AboutMe {
+    val firstName = "Valdo"
+    val lastName = "Durán"
+    val location = "Spain"
+    val languages = listOf("Java", "Flutter", "Node.js", "MySQL", "MongoDB")
++   val passion = "Clean Code & Modern UI"
+    val role = "Junior Fullstack Developer"
+    val openTo = listOf("Frontend", "Backend", "Fullstack Roles")
+}
+```
 
-## 🛠️ Technologies & Tools
-- **Programming Languages:** Java, Kotlin
-- **Databases:** MySQL, Oracle
-- **Web Tools:** HTML, CSS, phpMyAdmin
-- **Other Skills:** Basic knowledge of Git, Agile methodologies, and software design patterns.
+---
 
-## 🌐 Contact Me
-[📬 valdo.duran.p@gmail.com](mailto:valdo.duran.p@gmail.com)
+## 👨‍💻 About Me
+- 💻 Strong experience in **Java** and **Spring Boot** for backend development.
+- 🎨 Passionate about **frontend** development with **Flutter**, building responsive UIs for mobile and web.
+- 🔁 Experience with **Node.js**, **MongoDB**, and **MySQL** in fullstack projects.
+- 🧠 Self-taught in several technologies via **Udemy** (certified).
+- 🌍 Completed a 3-month internship in **Germany**, using **English daily** and learning **basic German**.
+- 🤝 Collaborated on a **TFG fullstack** app with Flutter + Node.js + MongoDB.
+- 🕹️ Built a **mobile rhythm game** inspired by Piano Tiles using **Java/Kotlin for Android**.
+- ☕ Fan of **clean code**, project structure, and continuous improvement.
 
+---
+
+## 🚀 Tech Stack
+
+**Languages & Frameworks**  
+`Java` · `Spring Boot` · `Node.js` · `Flutter` · `Kotlin` · `JavaFX`
+
+**Databases**  
+`MySQL` · `MongoDB`
+
+**Tools & Platforms**  
+`Git` · `GitHub` · `IntelliJ IDEA` · `VS Code` · `Udemy` · `Firebase`
+
+**Other**  
+`REST APIs` · `Responsive Design` · `MVC` · `Agile basics` · `Clean Code`
+
+---
+
+## 📚 Currently Learning
+- Advanced Java practices (clean architecture, testing, etc.)
+- Backend development with **Node.js + MongoDB**
+- Fullstack apps using **Flutter Web + REST APIs**
+- UI/UX best practices for modern frontend design
+
+---
+
+## 📂 Featured Projects (check my pinned repos)
+- ✅ TFG – **Responsive fullstack app** (Flutter + Node.js + MongoDB)
+- 🎮 Piano Tiles–like **mobile game** (Java/Kotlin)
+- 🖥️ Desktop inventory app with **JavaFX** and **MySQL**
+- 🧠 More projects being uploaded...
+
+---
+
+## 🌐 Languages
+- 🇪🇸 Spanish (native)
+- 🇬🇧 English (B2 – certified)
+- 🇩🇪 German (basic conversational)
+
+---
+
+## 📬 Contact Me
+[📧 valdo.duran.p@gmail.com](mailto:valdo.duran.p@gmail.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/tu-usuario-linkedin)
+
+---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=petronyte&show_icons=true&theme=tokyonight)
@@ -34,4 +82,6 @@ While my focus is on **Java**, I'm also exploring other exciting technologies an
 
 ---
 
-Feel free to explore my repositories, ask me any questions, or share suggestions. I'm always open to collaborating and learning from others! 🤝
+> ✨ I'm open to internships, junior positions and collaborations.  
+> Let's build awesome things together!  
+> _Feel free to explore my repos, leave feedback or just say hi 🤝_
