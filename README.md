@@ -56,7 +56,7 @@ class AboutMe {
 ---
 
 ## 📂 Featured Projects (check my pinned repos)
-- ✅ TFG – **Responsive fullstack app** (Flutter + Node.js + MongoDB)
+- ⏯️🔏⌛ TFG – **Responsive fullstack app** (Flutter + Node.js + MongoDB)
 - 🎮 Piano Tiles–like **mobile game** (Java/Kotlin)
 - 🖥️ Desktop inventory app with **JavaFX** and **MySQL**
 - 🧠 More projects being uploaded...
