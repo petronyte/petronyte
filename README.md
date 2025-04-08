@@ -71,7 +71,7 @@ class AboutMe {
 ---
 
 ## 📬 Contact Me
-[📧 valdo.duran.p@gmail.com](mailto:valdo.duran.p@gmail.com)  
+[📧 Contáctame por correo [valdo.duran.p@gmail.com]](https://mail.google.com/mail/?view=cm&to=valdo.duran.p@gmail.com) 
 [💼 LinkedIn](https://www.linkedin.com/in/valdo-dur%C3%A1n-ab80a035b/)
 
 ---
