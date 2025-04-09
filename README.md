@@ -10,24 +10,21 @@ public class AboutMe {
 
     private final String firstName = "Valdo";
     private final String lastName = "Durán";
-    private final int age = 20;
-    private final String location = "Spain";
+    private int age = 20;
+    private String location = "Spain";
 
-    private final String role = "Junior Fullstack Developer";
-    private final String[] openTo = {"Frontend", "Backend", "Fullstack"};
+    private String role = "Junior Fullstack Developer";
+    private String[] openTo = {"Frontend", "Backend", "Fullstack"};
 
-    private final String[] languagesAndTools = {
+    private String[] languagesAndTools = {
         "Java", "Spring Boot", "Flutter", "Node.js", "MySQL", "MongoDB"
     };
 
-+   private final String passion = "Building real-world apps with clean code and great UI/UX";
+    private String passion = "Building real-world apps with clean code and great UI/UX";
 
-    private final boolean openToWork = true;
-    private final String contactEmail = "valdo.duran.p@gmail.com";
-
+    private boolean openToWork = true;
+    private String contactEmail = "valdo.duran.p@gmail.com";
 }
-
-
 ```
 
 ---
