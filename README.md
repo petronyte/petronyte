@@ -20,7 +20,7 @@ public class AboutMe {
         "Java", "Spring Boot", "Flutter", "Node.js", "MySQL", "MongoDB"
     };
 
-    private String passion = "Building real-world apps with clean code and great UI/UX";
++    private String passion = "Building real-world apps with clean code and great UI/UX";
 
     private boolean openToWork = true;
     private String contactEmail = "valdo.duran.p@gmail.com";
