@@ -6,15 +6,16 @@ Currently finishing my last year of **Multiplatform Application Development (DAM
 ---
 
 ```diff
-class AboutMe {
-    val firstName = "Valdo"
-    val lastName = "Durán"
-    val location = "Spain"
-    val languages = listOf("Java", "Flutter", "Node.js", "MySQL", "MongoDB")
-+   val passion = "Clean Code & Modern UI"
-    val role = "Junior Fullstack Developer"
-    val openTo = listOf("Frontend", "Backend", "Fullstack Roles")
+public class AboutMe {
+    private String firstName = "Valdo";
+    private String lastName = "Durán";
+    private String location = "Spain";
+    private String[] languages = {"Java", "Flutter", "Node.js", "MySQL", "MongoDB"};
++   private String passion = "Clean Code & Modern UI";
+    private String role = "Junior Fullstack Developer";
+    private String[] openTo = {"Frontend", "Backend", "Fullstack Roles"};
 }
+
 ```
 
 ---
