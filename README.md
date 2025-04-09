@@ -7,14 +7,26 @@ Currently finishing my last year of **Multiplatform Application Development (DAM
 
 ```diff
 public class AboutMe {
-    private String firstName = "Valdo";
-    private String lastName = "Durán";
-    private String location = "Spain";
-    private String[] languages = {"Java", "Flutter", "Node.js", "MySQL", "MongoDB"};
-+   private String passion = "Clean Code & Modern UI";
-    private String role = "Junior Fullstack Developer";
-    private String[] openTo = {"Frontend", "Backend", "Fullstack Roles"};
+
+    private final String firstName = "Valdo";
+    private final String lastName = "Durán";
+    private final int age = 20;
+    private final String location = "Spain";
+
+    private final String role = "Junior Fullstack Developer";
+    private final String[] openTo = {"Frontend", "Backend", "Fullstack"};
+
+    private final String[] languagesAndTools = {
+        "Java", "Spring Boot", "Flutter", "Node.js", "MySQL", "MongoDB"
+    };
+
++   private final String passion = "Building real-world apps with clean code and great UI/UX";
+
+    private final boolean openToWork = true;
+    private final String contactEmail = "valdo.duran.p@gmail.com";
+
 }
+
 
 ```
 
