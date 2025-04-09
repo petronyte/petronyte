@@ -13,17 +13,17 @@ public class AboutMe {
     private int age = 20;
     private String location = "Spain";
 
++   private String passion = "Building real-world apps with clean code and great UI/UX";
+
++   private boolean openToWork = true;
+    private String contactEmail = "valdo.duran.p@gmail.com";
+
     private String role = "Junior Fullstack Developer";
     private String[] openTo = {"Frontend", "Backend", "Fullstack"};
 
     private String[] languagesAndTools = {
         "Java", "Spring Boot", "Flutter", "Node.js", "MySQL", "MongoDB"
     };
-
-+    private String passion = "Building real-world apps with clean code and great UI/UX";
-
-    private boolean openToWork = true;
-    private String contactEmail = "valdo.duran.p@gmail.com";
 }
 ```
 
@@ -68,7 +68,7 @@ public class AboutMe {
 ## 📂 Featured Projects (check my pinned repos)
 - ⏯️🔏⌛ TFG – **Responsive fullstack app** (Flutter + Node.js + MongoDB)
 - 🎮 Piano Tiles–like **mobile game** (Java/Kotlin)
-- 🖥️ Desktop inventory app with **JavaFX** and **MySQL**
+- 🖥️ Desktop Restaurant app with **JavaFX** and **MySQL**
 - 🧠 More projects being uploaded...
 
 ---
