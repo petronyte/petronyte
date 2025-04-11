@@ -81,9 +81,12 @@ public class AboutMe {
 ---
 
 ## 📬 Contact Me
-- [📧 Contáctame por correo --> valdo.duran.p@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRCQxttvwrFSPnSJBGjXTBCrnQTBpFjXfJgzHGLpGvjftkJbLZbRtcNjzLcmNLFWnHZRJG)
 
-- [💼 Visita mi LinkedIn 🌐](https://www.linkedin.com/in/valdo-dur%C3%A1n-ab80a035b/)
+- 📧 Contáctame por correo  
+[![Email](https://img.shields.io/badge/Email-valdo.duran.p@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&to=valdo.duran.p@gmail.com)
+
+- 💼 Visita mi LinkedIn 🌐  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdo%20Dur%C3%A1n-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valdo-dur%C3%A1n-ab80a035b/)
 
 ---
 
