@@ -16,7 +16,7 @@ public class AboutMe {
 +   private String passion = "Building real-world apps with clean code and great UI/UX";
 
 +   private boolean openToWork = true;
-    private String contactEmail = "valdo.duran.p@gmail.com";
+    private String contactEmail = "petronyte.dev@gmail.com";
 
     private String role = "Junior Fullstack Developer";
     private String[] openTo = {"Frontend", "Backend", "Fullstack"};
@@ -83,7 +83,7 @@ public class AboutMe {
 ## 📬 Contact Me
 
 - 📧 Contáctame por correo  
-[![Email](https://img.shields.io/badge/Email-valdo.duran.p@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&to=valdo.duran.p@gmail.com)
+[![Email](https://img.shields.io/badge/Email-petronyte.dev@gmail.com-red?style=flat-square&logo=gmail)](https://mail.google.com/mail/?view=cm&to=petronyte.dev@gmail.com)
 
 - 💼 Visita mi LinkedIn 🌐  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Valdo%20Dur%C3%A1n-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valdo-dur%C3%A1n-ab80a035b/)
