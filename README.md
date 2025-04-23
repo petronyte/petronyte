@@ -9,7 +9,7 @@ Currently finishing my last year of **Multiplatform Application Development (DAM
 public class AboutMe {
 
     private final String firstName = "Valdo";
-    private final String lastName = "Durán";
+    private final String surnames = "Durán Petronyte";
     private int age = 20;
     private String location = "Spain";
 
